@@ -62,8 +62,8 @@ DELIMITER ',' CSV HEADER;
 COPY Orders(order_id, customer_id, book_id, order_date, quantity, total_amount)
 FROM 'C:\\Users\\hp\\Downloads\\Orders.csv'
 DELIMITER ',' CSV HEADER;
----
 
+---
  🔍 SQL Queries
 
 ## 🔍 **SQL Queries**
@@ -113,4 +113,4 @@ DELIMITER ',' CSV HEADER;
 
 ## 📧 **Contact**
 **If you have any questions or suggestions, feel free to open an issue or contact the project maintainer.**
-
+---
