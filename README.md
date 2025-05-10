@@ -93,13 +93,13 @@ DELIMITER ',' CSV HEADER;
 - **Highest-spending customer**
 - **Remaining stock after fulfilling orders**
 
-## ✅ **Prerequisites**
+### ✅ **Prerequisites**
 - **PostgreSQL installed and configured**
 - **CSV data files: `Books.csv`, `Customers.csv`, `Orders.csv`**
 - **SQL editor (pgAdmin, DBeaver, or psql CLI)**
 - **Basic SQL knowledge**
 
-## 🚀 **How to Run**
+### 🚀 **How to Run**
 1. **Open your PostgreSQL environment.**
 2. **Execute the provided SQL script:**
    - Drops and recreates tables
@@ -107,7 +107,7 @@ DELIMITER ',' CSV HEADER;
    - Runs various SQL queries
 3. **Modify and extend queries for additional insights**
 
-## 📌 **Notes**
+### 📌 **Notes**
 - **Ensure column names in the CSV files match the SQL schema.**
 - **Update local paths for data import commands.**
 - **All foreign key constraints are in place to maintain data integrity.**
