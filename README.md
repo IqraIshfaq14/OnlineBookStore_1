@@ -64,6 +64,7 @@ FROM 'C:\\Users\\hp\\Downloads\\Orders.csv'
 DELIMITER ',' CSV HEADER;
 
 ---
+
  🔍 SQL Queries
 
 ## 🔍 **SQL Queries**
@@ -113,4 +114,5 @@ DELIMITER ',' CSV HEADER;
 
 ## 📧 **Contact**
 **If you have any questions or suggestions, feel free to open an issue or contact the project maintainer.**
+
 ---
